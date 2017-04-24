@@ -1,1 +1,2 @@
-alert("prueba de enlace con archivo js");
+var v = document.getElementsByTagName("video")[0];
+v.play();
