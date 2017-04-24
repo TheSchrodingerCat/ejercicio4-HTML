@@ -1,2 +1,2 @@
-var v = document.getElementsByTagName("video")[0];
+var v = document.getElementsByTagName("audio")[0];
 v.play();
