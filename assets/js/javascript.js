@@ -1,0 +1,1 @@
+alert("prueba de enlace con archivo js");
